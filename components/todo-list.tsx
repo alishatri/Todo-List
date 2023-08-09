@@ -11,7 +11,7 @@ const EditButton = styled.button`
   width: 197px;
   border: #d0d5dd solid 1px;
   cursor: pointer;
-`;
+ `;
 const DeleteButton = styled.button`
   border-radius: 8px;
   background-color: #f04438;

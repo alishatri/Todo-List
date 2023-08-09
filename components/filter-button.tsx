@@ -10,7 +10,7 @@ const Main = styled.div`
   color: #344054;
   width: 160px;
   cursor: pointer;
-`;
+ `;
 
 const FilterButton: React.FC<IFilterButton> = ({ clickEvent, label }) => {
   return (

@@ -9,7 +9,7 @@ import { useState } from "react";
 const Main = styled.div`
   width: 1200px;
   margin:80px auto;
-`;
+ `;
 
 export default function Home() {
   const [filterMode, setFilterMode] = useState("all");

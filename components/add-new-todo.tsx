@@ -10,14 +10,14 @@ const StyledButton = styled.button`
   border: 0;
   width: 226px;
   cursor: pointer;
-`;
+ `;
 const StyledInput = styled.input`
   width: 100%;
   border-radius: 8px;
   padding: 16px 28px;
   font-size: 18px;
   border: 1px solid #d0d5dd;
-`;
+ `;
 const Form = styled.form`
   display: flex;
   gap: 10px;
