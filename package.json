@@ -1,0 +1,27 @@
+{
+  "name": "todo-list",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.19",
+    "@types/react-dom": "18.2.7",
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-modal": "^3.16.1",
+    "styled-components": "^6.0.7",
+    "typescript": "5.1.6",
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/react-modal": "^3.16.0"
+  }
+}
